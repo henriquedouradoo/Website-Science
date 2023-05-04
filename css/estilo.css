@@ -53,6 +53,7 @@ a:hover{
     text-align: center;
     padding-bottom: 50px;
     letter-spacing: 2px;
+   
 }
 
 #navbar {
@@ -60,6 +61,7 @@ a:hover{
     background: #111;
     color: #efefef;
     height: 80px;
+    position: fixed;
 }
 
 #navbar-container {
